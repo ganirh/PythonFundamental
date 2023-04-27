@@ -1,5 +1,5 @@
 """
-Program perulangan FOR membaca buku
+Program perulangan membaca buku
 """
 
 bookStock = 43
